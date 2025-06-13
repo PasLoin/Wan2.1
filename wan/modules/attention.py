@@ -1,3 +1,4 @@
+import torch
 def attention(
     q,
     k,
